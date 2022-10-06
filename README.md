@@ -6,7 +6,7 @@ Monthly CSV files (July 2019- June 2020) were collected from [Citi Bike Data](ht
 ## Visualizations
 https://public.tableau.com/app/profile/kathleen.lopokoiyit/viz/NYCCitibikeAnalysis_16642501773680/CitibikeMap_1
 
-#Analysis
+# Analysis
 After creating and analyzing my visualizations in Tableau, there were many phenomena to be uncovered.
 
 ### 1. Ridership by seasons
