@@ -1,7 +1,5 @@
 # Tableau Homework - NYC Citi Bike Analytics
 
-# Tableau Homework - Citi Bike Analytics
-
 ## Data Source
 Monthly CSV files (July 2019- June 2020) were collected from [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
