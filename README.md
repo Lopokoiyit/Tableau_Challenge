@@ -19,7 +19,7 @@ September 2019 had the highest number of records, while February 2019 had the lo
 Top ten stations for both ending and starting a journey are Grove St PATH and Hamilton Park. The first being that the trips for the most used bikes are often started on or around the same stations, this may indicate that we need to increase our supply of bicycles in these areas.
 
 ### 4. Trip Distance and Duration by Age
-If we look at the records by age, highest number of records (34,628) were recorded by people aged 51, although majority of the users are aged between 25-44 years old.The median age of riders is 31. 
+If we look at the records by age, highest number of records (22,238) were recorded by people aged 51, although majority of the users are aged between 25-44 years old.The median age of riders is 31. 
 In terms of the distance and duration, most young users rode citi bikes for short distance, while the older people rode for longer distance and duration.
 It is clear that men ride way more citi bikes than women and unknown gender. Usage of three categories peaked during Summer, and then decreased after September.
 
